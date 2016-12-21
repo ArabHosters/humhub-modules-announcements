@@ -1,0 +1,6 @@
+{
+    "id": "announcements",
+    "name": "Announcements",
+    "description": "Shows announcements for users on dashboard.",
+    "version": "1"
+}
